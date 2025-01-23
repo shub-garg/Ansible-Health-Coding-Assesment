@@ -36,8 +36,8 @@ To use this script, you need to enable the Google Docs API for your account. Fol
 ### Setup Instructions
 1. **Clone or Download the Repository**:
    ```
-   git clone https://github.com/shub-garg/Ansible-Health-Coding-Assesment.git
-   cd Ansible-Health-Coding-Assesment
+   git clone https://github.com/shub-garg/Ansible-Health-Coding-Assessment.git
+   cd Ansible-Health-Coding-Assessment
    ```
    
 2. **Upload to Google Colab**:
