@@ -4,6 +4,8 @@
 
 This Python script is designed to run in a Google Colab environment. It takes markdown meeting notes as input and programmatically creates a well-formatted Google Doc using the Google Docs API.
 
+Output Document [https://docs.google.com/document/d/19q4GwU5_cVfZehy8tkDbaYt6w_n62458Mf5a-orxgJU/edit?usp=sharing](https://docs.google.com/document/d/19q4GwU5_cVfZehy8tkDbaYt6w_n62458Mf5a-orxgJU/edit?usp=sharing)
+
 ### Features
 - Parses markdown meeting notes and applies proper formatting in Google Docs.
 - Supports:
@@ -63,8 +65,8 @@ Markdown meeting notes:
 - [ ] @sarah: Finalize Q3 roadmap by Friday
 ```
 
-### Example Output
-A formatted Google Doc with headings, bullet points, checkboxes, and styled mentions.
+### Output
+A formatted Google Doc with headings, bullet points, checkboxes, and styled mentions. Please follow the link for the [output document](https://docs.google.com/document/d/19q4GwU5_cVfZehy8tkDbaYt6w_n62458Mf5a-orxgJU/edit?usp=sharing).
 
 ### Troubleshooting
 If you encounter errors:
