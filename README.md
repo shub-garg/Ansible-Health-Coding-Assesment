@@ -22,19 +22,29 @@ Install the following Python libraries:
 - `googleapiclient`
 - `google.auth`
 
+## How to Enable Google Docs API
+To use this script, you need to enable the Google Docs API for your account. Follow these steps:
+
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
+2. Create a new project or select an existing one.
+3. Navigate to the **API & Services > Library** section.
+4. Search for "Google Docs API" and click on it.
+5. Click the **Enable** button.
+
 ### Setup Instructions
 1. **Clone or Download the Repository**:
    ```
-   git clone https://github.com/yourusername/google-docs-markdown-parser.git
-   cd google-docs-markdown-parser
+   git clone https://github.com/shub-garg/Ansible-Health-Coding-Assesment.git
+   cd Ansible-Health-Coding-Assesment
    ```
+   
 2. **Upload to Google Colab**:
 Open the `.ipynb` file in Google Colab.
 
-3. **Authenticate with Google Docs API**:
+4. **Authenticate with Google Docs API**:
 The script will prompt you to authenticate. Follow the on-screen instructions to grant permissions.
 
-4. **Run the Script**:
+5. **Run the Script**:
 Simply execute all cells in the Colab notebook to generate a new Google Doc.
 
 
@@ -65,3 +75,6 @@ If you encounter errors:
 
 ### License
 This project is licensed under the MIT License.
+
+
+---
